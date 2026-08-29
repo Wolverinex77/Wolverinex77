@@ -42,14 +42,7 @@ Languages
 - E-commerce and business-oriented backend systems
 - Background workers and asynchronous processes
 
----
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165" alt="Top Languages">
-</p>---
 
 🌱 Currently Learning
 
