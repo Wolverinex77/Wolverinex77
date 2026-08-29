@@ -52,8 +52,9 @@ Languages
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/waahib-naeem/waahib-naeem/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
+
 <p align="center">
   <i>Building backend systems, one API at a time.</i>
 </p>
