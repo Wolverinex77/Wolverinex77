@@ -6,7 +6,7 @@ Computer Science student focused on building REST APIs, backend systems, and dat
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+SQLAlchemy;Building+REST+APIs;Always+Learning+%26+Building" alt="Typing SVG">
-</p>---
+</p>
 
 🛠️ Tech Stack
 
@@ -32,7 +32,7 @@ Languages
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-</p>---
+</p>
 
 🚀 What I Build
 
@@ -54,7 +54,7 @@ Languages
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>---
+</p>
 
 <p align="center">
   <i>Building backend systems, one API at a time.</i>
