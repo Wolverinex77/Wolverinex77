@@ -46,13 +46,9 @@ Languages
 
 🌱 Currently Learning
 
-Python Backend Development
-
 "FastAPI" • "PostgreSQL" • "SQLAlchemy" • "REST APIs"
 
 "Authentication" • "Testing" • "Redis" • "Background Workers"
-
----
 
 🐍 Contribution Snake
 
