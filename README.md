@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Waahib
 
-### Aspiring Python Backend Developer
+### Python Backend Developer in Progress
 
-Computer Science student focused on building REST APIs, backend systems, and database-driven applications with Python.
+I'm a Computer Science student focused on building **REST APIs, backend systems, and database-driven applications** with Python.
+
+I enjoy working on the parts of software that make applications actually work — **APIs, databases, authentication, business logic, and background processing.**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+SQLAlchemy;Building+REST+APIs;Always+Learning+%26+Building" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Python+Backend+Developer;FastAPI+%7C+PostgreSQL+%7C+SQLAlchemy;Building+REST+APIs;Learning+Backend+Engineering" alt="Typing SVG">
 </p>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -26,6 +30,7 @@ Computer Science student focused on building REST APIs, backend systems, and dat
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
   <img src="https://img.shields.io/badge/Alembic-333333?style=for-the-badge" alt="Alembic">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
 ### Tools & Deployment
@@ -38,13 +43,44 @@ Computer Science student focused on building REST APIs, backend systems, and dat
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
+---
+
 ## 🚀 What I Build
 
-* REST APIs with FastAPI
-* Database-driven applications with PostgreSQL & SQLAlchemy
-* Authentication & role-based authorization
-* E-commerce and business-oriented backend systems
-* Background workers and job-processing systems
+* 🔌 REST APIs with **FastAPI**
+* 🗄️ Database-driven applications with **PostgreSQL & SQLAlchemy**
+* 🔐 Authentication & **role-based authorization**
+* 🛒 E-commerce and business-oriented backend systems
+* ⚙️ Background workers and job-processing systems
+* 🧪 API testing and backend reliability
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-commerce Platform
+
+A full-stack e-commerce application with a **FastAPI backend**, PostgreSQL database, authentication, product management, cart and order workflows, reviews, image storage, and payment integration.
+
+**Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
+
+---
+
+### 🔐 RBAC Task Management API
+
+A task management API featuring **JWT authentication and role-based access control**. Includes users, teams, projects, task assignments, state transitions, archiving, and audit history.
+
+**Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT` `RBAC`
+
+---
+
+### ⚙️ TaskForge
+
+A background job processing platform built around **Redis queues and workers**. Supports queued jobs, processing, retries, failures, and completed jobs for tasks such as URL fetching and image processing.
+
+**Stack:** `FastAPI` `Redis` `PostgreSQL` `Docker`
+
+---
 
 ## 🌱 Currently Learning
 
@@ -52,21 +88,21 @@ Computer Science student focused on building REST APIs, backend systems, and dat
 
 `API Architecture` • `Database Design` • `Docker` • `Production Practices`
 
-## 📊 GitHub Contributions
+---
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
+## 🎯 Current Focus
+
+Building stronger fundamentals in **backend architecture, database design, testing, and production-ready API development** while continuing to build real projects.
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://github.com/Wolverinex77">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
