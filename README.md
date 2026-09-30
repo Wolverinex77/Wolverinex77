@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Waahib
 
-### Python Backend Developer in Progress
+### Python Backend Developer
 
 I'm a Computer Science student focused on building **REST APIs, backend systems, and database-driven applications** with Python.
 
@@ -82,17 +82,25 @@ A background job processing platform built around **Redis queues and workers**. 
 
 ---
 
+### 📝 Blog API
+
+A backend API for managing blog content with **draft, published, and archived states**, user authentication, cover image uploads, and AI-assisted tag generation.
+
+**Stack:** `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Gemini`
+
+---
+
 ## 🌱 Currently Learning
 
-`Testing` • `Redis` • `Background Workers` • `System Design`
+`Testing` • `Redis` • `Background Workers` • `API Development`
 
-`API Architecture` • `Database Design` • `Docker` • `Production Practices`
+`PostgreSQL` • `SQLAlchemy` • `Database Design` • `Docker`
 
 ---
 
 ## 🎯 Current Focus
 
-Building stronger fundamentals in **backend architecture, database design, testing, and production-ready API development** while continuing to build real projects.
+Building **practical backend APIs with Python and FastAPI**, while strengthening my fundamentals in **REST API design, databases, authentication, testing, and clean backend architecture**.
 
 ---
 
@@ -102,7 +110,7 @@ Building stronger fundamentals in **backend architecture, database design, testi
   <a href="https://github.com/Wolverinex77">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/wahib-naeem-92a736363/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
