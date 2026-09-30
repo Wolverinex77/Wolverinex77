@@ -49,12 +49,4 @@ Languages
 "FastAPI" • "PostgreSQL" • "SQLAlchemy" • "REST APIs"
 
 "Authentication" • "Testing" • "Redis" • "Background Workers"
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
-
-<p align="center">
-  <i>Building backend systems, one API at a time.</i>
-</p>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WAAHIB/WAAHIB/gh-pages/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/gh-pages/github-contribution-grid-snake.svg" /> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/gh-pages/github-contribution-grid-snake.svg" /> </picture>
