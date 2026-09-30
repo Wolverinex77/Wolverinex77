@@ -58,15 +58,15 @@ Computer Science student focused on building REST APIs, backend systems, and dat
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/gh-pages/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/gh-pages/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/output/github-contribution-grid-snake.svg"
     />
     <img
+      src="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Wolverinex77/Wolverinex77/gh-pages/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
